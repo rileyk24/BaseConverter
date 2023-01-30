@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="884213db-5b25-4c5f-9f36-ff7423ac5cb3" name="Changes" comment="">
+    <list default="true" id="884213db-5b25-4c5f-9f36-ff7423ac5cb3" name="Changes" comment="2nd commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BaseConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseConverter.java" afterDir="false" />
     </list>
@@ -29,21 +32,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -81,8 +89,27 @@
       <workItem from="1669778307527" duration="2822000" />
       <workItem from="1669814332650" duration="4792000" />
       <workItem from="1669840684216" duration="282000" />
-      <workItem from="1669995292948" duration="3330000" />
+      <workItem from="1669995292948" duration="3958000" />
+      <workItem from="1670118598380" duration="1252000" />
+      <workItem from="1670284149472" duration="299000" />
+      <workItem from="1670334789643" duration="1139000" />
+      <workItem from="1670361331885" duration="1783000" />
+      <workItem from="1670428678254" duration="2000" />
+      <workItem from="1671034997150" duration="427000" />
+      <workItem from="1674057348916" duration="214000" />
+      <workItem from="1674221977126" duration="604000" />
+      <workItem from="1674601944669" duration="63000" />
+      <workItem from="1675088455034" duration="892000" />
+      <workItem from="1675104073368" duration="599000" />
     </task>
+    <task id="LOCAL-00001" summary="2nd commit">
+      <created>1669998764498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669998764498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,12 +126,16 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/BaseConverter.java</url>
-          <line>46</line>
+          <line>47</line>
           <properties class="BaseConverter" method="intToStr">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -115,6 +146,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BaseConverter$BaseConverter.ic" NAME="BaseConverter Coverage Results" MODIFIED="1669996914519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BaseConverter$BaseConverter.ic" NAME="BaseConverter Coverage Results" MODIFIED="1669998722647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

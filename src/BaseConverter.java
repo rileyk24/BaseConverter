@@ -15,6 +15,7 @@ public class BaseConverter {
      * @param fromBase the original from base
      * @return a base-10 int of num base fromBase
      */
+
     public int strToInt(String num, String fromBase) {
         // "FF" "16"
         int value = 0, exp = 0;
